@@ -74,12 +74,6 @@ VITE_PAYPAL_CLIENT_ID=your_paypal_client_id
 
 ---
 
-## 📷 Screenshots
-
-![Homepage](./assets/closet-ready-homepage.png)
-
----
-
 ## 🤝 Acknowledgements
 
 - PayPal Developer Docs  
