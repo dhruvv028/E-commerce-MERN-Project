@@ -18,7 +18,7 @@ const Hero = () => {
                 Explore our aesthetic outfits with fast worldwide shipping.
                 </p>
                 <Link
-                    to="#"
+                    to="/collections/all"
                     className="bg-white text-gray-950 px-6 py-2 rounded-md text-lg font-semibold hover:bg-gray-200 transition">
                     Shop Now
                 </Link>
